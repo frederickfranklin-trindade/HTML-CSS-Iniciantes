@@ -46,5 +46,6 @@ Abra o arquivo \`index.html\` diretamente no navegador — não há dependência
 
 Mais de 15 anos de experiência em Suporte Técnico, Implantação de Sistemas ERP e Liderança de Equipes de TI. Atualmente ampliando esse repertório com HTML, CSS.
 
-- LinkedIn: [linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/frederick-franklin/)
+- LinkedIn: [linkedin.com/in/frederick-franklin](https://www.linkedin.com/in/frederick-franklin/)
+
 - E-mail: frederickfov@outlook.com
