@@ -30,10 +30,9 @@ Este repositório foi criado para fins educacionais, como parte da minha amplia�
 
 Clone o repositório:
 
-\`\`\`bash
+```bash
 git clone https://github.com/frederickfranklin-trindade/HTML-CSS-Iniciantes.git
-\`\`\`
-
+```
 Abra o arquivo \`index.html\` diretamente no navegador — não há dependências ou build necessários.
 
 ## Acesse o projeto publicado
