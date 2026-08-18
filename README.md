@@ -44,7 +44,7 @@ Abra o arquivo \`index.html\` diretamente no navegador — não há dependência
 
 **Frederick Franklin** — Trindade, Goiás
 
-Mais de 15 anos de experiência em Suporte Técnico, Implantação de Sistemas ERP e Liderança de Equipes de TI, atuando mais recentemente como Líder de Equipe de Suporte na LG Lugar de Gente. Atualmente ampliando esse repertório com HTML, CSS e JavaScript, aplicando a mesma disciplina de resolução de problemas do Suporte à construção de interfaces.
+Mais de 15 anos de experiência em Suporte Técnico, Implantação de Sistemas ERP e Liderança de Equipes de TI. Atualmente ampliando esse repertório com HTML, CSS.
 
-- LinkedIn: [linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/SEU-USUARIO)
-- E-mail: seuemail@exemplo.com
+- LinkedIn: [linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/frederick-franklin/)
+- E-mail: frederickfov@outlook.com
